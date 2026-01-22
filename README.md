@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi, I’m Vikram 
+
+I’m an MS BAPM student at the University of Connecticut,
+.
+
+This semester I’m learning:
+- data science using Python
+- intro to deep learning 
+- Business Desicion Modeling 
+
 
 <!--
 **OPIM5512-pyb24001/OPIM5512-pyb24001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
