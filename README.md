@@ -7,7 +7,7 @@ This semester I’m learning:
 - data science using Python
 - intro to deep learning 
 - Business Desicion Modeling
-- A fun fact about me is i am a  huge football fan and i started watching football when i was 10 yearsd old , since then i support FC barcelona 
+- A fun fact about me is i am a  huge football fan and i started watching football when i was 10 yearsd old , since then i supporting  FC barcelona 
   
   
 
